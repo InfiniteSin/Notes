@@ -1,1 +1,15 @@
-{}
+{
+  "strictLineBreaks": false,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-TempNotes",
+  "attachmentFolderPath": "9-Attachments",
+  "uriCallbacks": true,
+  "promptDelete": false
+}
