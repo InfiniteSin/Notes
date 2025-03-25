@@ -1,8 +1,9 @@
 ---
 title: <% tp.file.cursor(1) %>
-ZKid: <% tp.file.title %>
 theme: <% tp.file.cursor(2) %>
-tags: <% tp.file.cursor(3) %>
+tags: 
+- ZK
+- <% tp.file.cursor(3) %>
 created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
 modified: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
 ---

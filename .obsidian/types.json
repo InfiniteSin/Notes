@@ -24,6 +24,7 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "created:{{tp.file.creation_date(format": "text",
-    "modified:{{tp.file.last_modified_date(format": "text"
+    "modified:{{tp.file.last_modified_date(format": "text",
+    "ZKid": "text"
   }
 }

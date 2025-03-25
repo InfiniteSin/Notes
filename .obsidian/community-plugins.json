@@ -6,8 +6,8 @@
   "excalibrain",
   "pdf-plus",
   "templater-obsidian",
-  "zettelkasten-navigation",
   "obsidian-meta-bind-plugin",
   "quickadd",
-  "front-matter-timestamps"
+  "front-matter-timestamps",
+  "zettelkasten-navigation"
 ]

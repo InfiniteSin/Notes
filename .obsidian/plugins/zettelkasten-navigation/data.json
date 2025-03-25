@@ -4,20 +4,29 @@
   "StartingPoint": "index",
   "DisplayLevel": "end",
   "NodeText": "both",
-  "FamilyGraphToggle": true,
+  "FamilyGraphToggle": false,
   "InlinksGraphToggle": true,
   "OutlinksGraphToggle": true,
-  "TagOfMainNotes": "ZKid",
+  "TagOfMainNotes": "#ZK",
   "IDFieldOption": "1",
   "TitleField": "title",
-  "IDField": "ZKid",
+  "IDField": "",
   "Separator": " ",
   "IndexButtonText": "📖keywords",
   "SuggestMode": "fuzzySuggest",
   "FoldToggle": false,
   "FoldNodeArr": [],
-  "RedDashLine": false,
-  "zoomPanScaleArr": [],
+  "RedDashLine": true,
+  "zoomPanScaleArr": [
+    {
+      "graphID": "zk-index-mermaid-0",
+      "zoomScale": 0.5652240514755249,
+      "pan": {
+        "x": 273.03929567337036,
+        "y": 414.0000210207577
+      }
+    }
+  ],
   "CustomCreatedTime": "created",
   "BranchTab": 0,
   "FileExtension": "md",
@@ -38,21 +47,35 @@
   "ListTree": true,
   "HistoryList": [
     {
+      "type": "main",
+      "ID": "G898.2-1",
+      "displayText": "G898.2-1: 我的世界-游戏介绍",
+      "filePath": "2-ZKMainNotes/G898.2-1.md",
+      "openTime": "2025-03-25 18:29:33"
+    },
+    {
       "type": "index",
       "ID": "",
       "displayText": "我的世界",
-      "filePath": "2-ZKNotes/0-KeywordsIndexes/我的世界.md",
-      "openTime": "2025-03-25 17:50:25"
+      "filePath": "2-ZKIndex/我的世界.md",
+      "openTime": "2025-03-25 18:04:47"
     },
     {
-      "type": "",
-      "ID": "",
-      "displayText": "",
-      "filePath": "",
-      "openTime": "2025-03-25 17:00:05"
+      "type": "main",
+      "ID": "G8982-1",
+      "displayText": "G8982-1: 我的世界-游戏介绍",
+      "filePath": "2-ZKMainNotes/G8982-1.md",
+      "openTime": "2025-03-25 18:03:07"
+    },
+    {
+      "type": "main",
+      "ID": "G898.2-1-1",
+      "displayText": "G898.2-1-1: 我的世界-模组",
+      "filePath": "2-ZKMainNotes/G898.2-1-1.md",
+      "openTime": "2025-03-25 18:02:58"
     }
   ],
-  "HistoryToggle": true,
+  "HistoryToggle": false,
   "HistoryMaxCount": 20,
   "exportCanvas": true,
   "cardWidth": 400,
@@ -60,26 +83,26 @@
   "canvasFilePath": "",
   "siblingsOrder": "number",
   "showAll": false,
-  "showAllToggle": true,
+  "showAllToggle": false,
   "outlineLayer": 2,
   "maxLenMainModel": 100,
   "maxLenIndexModel": 100,
   "multiIDToggle": false,
   "multiIDField": "",
   "lastRetrival": {
-    "type": "index",
-    "ID": "",
-    "displayText": "我的世界",
-    "filePath": "2-ZKNotes/0-KeywordsIndexes/我的世界.md",
-    "openTime": "2025-03-25 17:50:25"
+    "type": "main",
+    "ID": "G898.2-1",
+    "displayText": "G898.2-1: 我的世界-游戏介绍",
+    "filePath": "2-ZKMainNotes/G898.2-1.md",
+    "openTime": "2025-03-25 18:29:33"
   },
   "NodeCommands": [],
-  "siblingLenToggle": false,
+  "siblingLenToggle": true,
   "displayTimeToggle": false,
-  "playControllerToggle": true,
+  "playControllerToggle": false,
   "nodeColor": "#FFFFAA",
-  "datetimeFormat": "yyyy-MM-DD HH:mm",
-  "graphType": "roadmap",
+  "datetimeFormat": "yyyy-MM-DD HH:mm:ss",
+  "graphType": "structure",
   "nodeClose": false,
   "gitUncrossing": false
 }
