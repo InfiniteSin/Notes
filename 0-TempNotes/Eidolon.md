@@ -1,8 +1,9 @@
 ---
-aliases:
-  - 幻梦
-name: 
-  - "Eidolon: Repraised"
+title: "Eidolon: Repraised"
+aliases: 幻梦
+tags: 我的世界/模组
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
 ---
 # 基础流程
 1. 合成模组说明书 "秘仪教典(Ars Ecclesia)"
