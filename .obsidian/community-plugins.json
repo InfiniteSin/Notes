@@ -8,5 +8,6 @@
   "templater-obsidian",
   "zettelkasten-navigation",
   "obsidian-meta-bind-plugin",
-  "quickadd"
+  "quickadd",
+  "front-matter-timestamps"
 ]

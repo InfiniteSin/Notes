@@ -1,14 +1,14 @@
 {
-  "FolderOfMainNotes": "1-ZKNotes/1-MainNotes",
-  "FolderOfIndexes": "",
-  "StartingPoint": "parent",
+  "FolderOfMainNotes": "2-ZKMainNotes",
+  "FolderOfIndexes": "2-ZKIndex",
+  "StartingPoint": "index",
   "DisplayLevel": "end",
   "NodeText": "both",
   "FamilyGraphToggle": true,
   "InlinksGraphToggle": true,
   "OutlinksGraphToggle": true,
   "TagOfMainNotes": "ZKid",
-  "IDFieldOption": "2",
+  "IDFieldOption": "1",
   "TitleField": "title",
   "IDField": "ZKid",
   "Separator": " ",
@@ -18,7 +18,7 @@
   "FoldNodeArr": [],
   "RedDashLine": false,
   "zoomPanScaleArr": [],
-  "CustomCreatedTime": "",
+  "CustomCreatedTime": "created",
   "BranchTab": 0,
   "FileExtension": "md",
   "SectionTab": 0,
@@ -30,13 +30,28 @@
   "RandomIndex": true,
   "RandomMainNote": true,
   "TableView": true,
-  "IndexButton": false,
+  "IndexButton": true,
   "MainNoteButton": true,
   "MainNoteButtonText": "📄Main notes",
   "settingIcon": true,
   "MainNoteSuggestMode": "fuzzySuggest",
   "ListTree": true,
-  "HistoryList": [],
+  "HistoryList": [
+    {
+      "type": "index",
+      "ID": "",
+      "displayText": "我的世界",
+      "filePath": "2-ZKNotes/0-KeywordsIndexes/我的世界.md",
+      "openTime": "2025-03-25 17:50:25"
+    },
+    {
+      "type": "",
+      "ID": "",
+      "displayText": "",
+      "filePath": "",
+      "openTime": "2025-03-25 17:00:05"
+    }
+  ],
   "HistoryToggle": true,
   "HistoryMaxCount": 20,
   "exportCanvas": true,
@@ -52,11 +67,11 @@
   "multiIDToggle": false,
   "multiIDField": "",
   "lastRetrival": {
-    "type": "",
+    "type": "index",
     "ID": "",
-    "displayText": "",
-    "filePath": "",
-    "openTime": ""
+    "displayText": "我的世界",
+    "filePath": "2-ZKNotes/0-KeywordsIndexes/我的世界.md",
+    "openTime": "2025-03-25 17:50:25"
   },
   "NodeCommands": [],
   "siblingLenToggle": false,
@@ -64,7 +79,7 @@
   "playControllerToggle": true,
   "nodeColor": "#FFFFAA",
   "datetimeFormat": "yyyy-MM-DD HH:mm",
-  "graphType": "structure",
+  "graphType": "roadmap",
   "nodeClose": false,
   "gitUncrossing": false
 }

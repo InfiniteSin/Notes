@@ -17,6 +17,10 @@
     {
       "folder": "0-TempNotes",
       "template": "9-Templates/BasicTemplate.md"
+    },
+    {
+      "folder": "2-ZKMainNotes",
+      "template": "9-Templates/000-ZKMainNotes.md"
     }
   ],
   "enable_file_templates": false,
@@ -33,5 +37,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "intellisense_render": 1
 }

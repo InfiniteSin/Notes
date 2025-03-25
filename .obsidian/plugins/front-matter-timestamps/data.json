@@ -1,0 +1,17 @@
+{
+  "autoUpdate": true,
+  "autoAddTimestamps": true,
+  "createdPropertyName": "created",
+  "modifiedPropertyName": "modified",
+  "dateFormat": "YYYY-MM-DDTHH:mm:ssZ",
+  "allowNonEmptyNewFile": true,
+  "delayAddingTimestamps": 1000,
+  "excludedFolders": [
+    "9-Templates",
+    "9-Attachments",
+    "9-Canvas",
+    "2-ZKIndex"
+  ],
+  "customCommand": "",
+  "debug": false
+}
