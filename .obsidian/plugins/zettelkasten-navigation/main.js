@@ -2928,7 +2928,7 @@ var tableModal = class extends import_obsidian11.Modal {
       if (outlinkStr !== "") {
         outlinkStr = `<ul>${outlinkStr}</ul>`;
       }
-      this.tableStr = this.tableStr + `|[[${node.ID}]]|${node.title}|${inlinksStr}|${outlinkStr}|${(0, import_obsidian11.moment)(node.ctime).format(this.plugin.settings.datetimeFormat)}|
+      this.tableStr = this.tableStr + `|[[${node.ID}]]|${node.title.replace(`|`, `\\|`)}|${inlinksStr}|${outlinkStr}|${(0, import_obsidian11.moment)(node.ctime).format(this.plugin.settings.datetimeFormat)}|
 `;
     }
   }

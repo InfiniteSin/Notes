@@ -20,10 +20,10 @@
   "zoomPanScaleArr": [
     {
       "graphID": "zk-index-mermaid-0",
-      "zoomScale": 0.41072821617126465,
+      "zoomScale": 0.7742694616317749,
       "pan": {
-        "x": 370.0626802444458,
-        "y": 365.00005660208427
+        "x": 141.75877809524536,
+        "y": 365.00016085238366
       }
     }
   ],
@@ -47,11 +47,18 @@
   "ListTree": true,
   "HistoryList": [
     {
+      "type": "index",
+      "ID": "",
+      "displayText": "我的世界",
+      "filePath": "2-ZKIndex/我的世界.md",
+      "openTime": "2025-03-27 11:03:27"
+    },
+    {
       "type": "main",
       "ID": "G898.2-1-1-1",
       "displayText": "G898.2-1-1-1: Eidolon: Repraised",
       "filePath": "2-ZKMainNotes/G898.2-1-1-1.md",
-      "openTime": "2025-03-25 21:46:09"
+      "openTime": "2025-03-27 10:24:14"
     },
     {
       "type": "main",
@@ -66,13 +73,6 @@
       "displayText": "G898.2-1: 我的世界-游戏介绍",
       "filePath": "2-ZKMainNotes/G898.2-1.md",
       "openTime": "2025-03-25 19:12:40"
-    },
-    {
-      "type": "index",
-      "ID": "",
-      "displayText": "我的世界",
-      "filePath": "2-ZKIndex/我的世界.md",
-      "openTime": "2025-03-25 18:04:47"
     },
     {
       "type": "main",
@@ -104,11 +104,11 @@
   "multiIDToggle": false,
   "multiIDField": "",
   "lastRetrival": {
-    "type": "main",
-    "ID": "G898.2-1-1-1",
-    "displayText": "G898.2-1-1-1: Eidolon: Repraised",
-    "filePath": "2-ZKMainNotes/G898.2-1-1-1.md",
-    "openTime": "2025-03-25 21:46:09"
+    "type": "index",
+    "ID": "",
+    "displayText": "我的世界",
+    "filePath": "2-ZKIndex/我的世界.md",
+    "openTime": "2025-03-27 11:03:27"
   },
   "NodeCommands": [],
   "siblingLenToggle": true,
